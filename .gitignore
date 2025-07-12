@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Build output
+/build/
+/out/
+/target/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+/build/
+
